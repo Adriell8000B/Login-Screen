@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font: normal normal 400 1rem "Poppins" ;
+}
+
+:root {
+	--white: #FFFFFF;
+	--royal-blue:#5271FF;
+	--royal-dark: #23232e;
+	--royal-gray: #2c2c35;
+}
+
+body {
+	background: var(--royal-dark);
+}
+
+button {
+	background: none;
+	outline: none;
+	border: none;
+}
