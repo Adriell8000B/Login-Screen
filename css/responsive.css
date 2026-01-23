@@ -185,9 +185,7 @@
 
 		#left {
 			background-color: var(--royal-blue);
-			border-top-right-radius: 200px;
-			border-bottom-right-radius: 0;
-			border-bottom-left-radius: 200px;
+			border-radius: 0;
 			display: flex;
 			justify-content: center;
 			align-items: center;
@@ -308,7 +306,7 @@
 
 				#options {
 					display: inherit;
-					width: 70%;
+					width: 90%;
 					justify-content: space-around;
 					list-style: none;
 
